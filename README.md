@@ -79,8 +79,8 @@ Hệ thống gồm hai thành phần:
 ### Clone & Build
 
 ```bash
-git clone https://github.com/<your-username>/snapback.git
-cd snapback
+git clone https://github.com/t13ee/Attack-Defense-Tools.git
+cd Attack-Defense-Tools
 
 # Tải dependencies
 go mod download
